@@ -1,7 +1,7 @@
 {
   "name": "ng-btsp-datatable",
   "version": "1.0.0",
-  "description": "An Angular 4 data table, with pagination, sorting, expandable rows etc. Bootstrap 4 version.",
+  "description": "An Angular data table, with pagination, sorting, expandable rows etc. Bootstrap 4 version.",
   "keywords": [
     "angular",
     "angular5",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:afermon/angular-4-data-table-bootstrap-4.git"
+    "url": "git@github.com:prnav/ng-btsp-datatable.git"
   },
   "peerDependencies": {
     "@angular/core": "5.2.8"
@@ -53,7 +53,7 @@
   },
   "false": {},
   "bugs": {
-    "url": "https://github.com/afermon/angular-4-data-table-bootstrap-4/issues"
+    "url": "https://github.com/softawarriors/ng-btsp-datatable/issues"
   },
-  "homepage": "https://github.com/afermon/angular-4-data-table-bootstrap-4/"
+  "homepage": "https://github.com/softawarriors/ng-btsp-datatable/"
 }

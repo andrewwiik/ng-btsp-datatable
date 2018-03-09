@@ -1,4 +1,4 @@
-## ng-btsp-data-table
+## ng-btsp-datatable
 
 Angular has been updated and there are some good updated/new datatables out there. Use your favorite search engine to look for them. Feel free to fork this code and updateit/play with it. 
 
@@ -22,7 +22,7 @@ The templates use bootstrap CSS class names, so the component requires a bootstr
 Check out the [Demo](https://afermon.github.io/angular-4-data-table-bootstrap-4-demo) and its [Code](https://github.com/afermon/angular-4-data-table-bootstrap-4-demo) for examples of how to use it.
 
 ## Installing:
-`npm install ng-btsp-data-table --save`
+`npm install ng-btsp-datatable --save`
 
 ## App Requirements
 * Bootstrap 4
