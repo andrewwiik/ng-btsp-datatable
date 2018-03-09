@@ -1,11 +1,11 @@
 {
-  "name": "angular-4-data-table-bootstrap-4",
-  "version": "0.2.0",
+  "name": "ng-btsp-datatable",
+  "version": "1.0.0",
   "description": "An Angular 4 data table, with pagination, sorting, expandable rows etc. Bootstrap 4 version.",
   "keywords": [
     "angular",
-    "angular4",
-    "Angular 4",
+    "angular5",
+    "Angular 5",
     "ng2",
     "datatable",
     "data-table",
