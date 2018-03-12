@@ -1,6 +1,6 @@
 {
   "name": "ng-btsp-datatable",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "An Angular data table, with pagination, sorting, expandable rows etc. Bootstrap 4 version.",
   "keywords": [
     "angular",
