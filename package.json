@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:prnav/ng-btsp-datatable.git"
+    "url": "git@github.com:softawarriors/ng-btsp-datatable.git"
   },
   "peerDependencies": {
     "@angular/core": "5.2.8"
