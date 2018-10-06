@@ -13,7 +13,7 @@ import { Hide } from './utils/hide';
 import { MinPipe } from './utils/min';
 
 export * from './components/types';
-export * from './tools/data-table-resource';
+export * from './tools/data-table-resource/';
 
 export { DataTable, DataTableColumn, DataTableRow, DataTablePagination, DataTableHeader };
 export const DATA_TABLE_DIRECTIVES = [ DataTable, DataTableColumn ];
@@ -26,6 +26,6 @@ export const DATA_TABLE_DIRECTIVES = [ DataTable, DataTableColumn ];
         DataTableRow, DataTablePagination, DataTableHeader,
         PixelConverter, Hide, MinPipe
     ],
-    exports: [ DataTable, DataTableColumn ]
+    exports: [ DATA_TABLE_DIRECTIVES ]
 })
 export class DataTableModule { }
